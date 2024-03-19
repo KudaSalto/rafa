@@ -1,0 +1,9 @@
+.container{
+    width: 50%;
+    margin: auto;
+    background-color: aqua;
+    color: rgb(255, 0, 221);
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
